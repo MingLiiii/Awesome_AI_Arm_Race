@@ -1,4 +1,4 @@
-# 📚 Awesome AI Paper–Review Arms Race
+# 📚📚 Awesome AI Paper–Review Arms Race
 
 [![arXiv: coming soon](https://img.shields.io/badge/arXiv-coming_soon-B31B1B?style=flat)](#citation-and-contact)
 [![Survey PDF](https://img.shields.io/badge/Survey-PDF-B31B1B?style=flat)](Survey.pdf)
