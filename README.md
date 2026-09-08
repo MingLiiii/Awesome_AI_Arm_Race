@@ -11,7 +11,7 @@ A reading list accompanying **The Emerging AI Paper-Review Arms Race: Adversaria
 
 ## 📢 News
 
-- **2026.09 (planned)** — Survey paper release. Paper link and final citation to be added.
+- **2026.09 (planned)** — Survey paper release. Paper link and citation to be added.
 
 <a id="introduction"></a>
 
