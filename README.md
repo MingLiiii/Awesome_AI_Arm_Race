@@ -1,6 +1,7 @@
 # 📚 Awesome AI Paper–Review Arms Race
 
 [![arXiv: coming soon](https://img.shields.io/badge/arXiv-coming_soon-B31B1B?style=flat)](#citation-and-contact)
+[![Survey PDF](https://img.shields.io/badge/Survey-PDF-B31B1B?style=flat)](Survey.pdf)
 [![Maintained: yes](https://img.shields.io/badge/Maintained-yes-2E7D32?style=flat)](#news)
 [![Last update: September 2026](https://img.shields.io/badge/Last_update-2026.09-7952B3?style=flat)](#news)
 [![Contributions: welcome](https://img.shields.io/badge/Contributions-welcome-1677B8?style=flat)](#contributing)
@@ -11,7 +12,7 @@ A reading list accompanying **The Emerging AI Paper-Review Arms Race: Adversaria
 
 ## 📢 News
 
-- **2026.09 (planned)** — Survey paper release. Paper link and citation to be added.
+- **2026.09** — The [survey PDF](Survey.pdf) is now available. See below for the [BibTeX citation](#citation-and-contact).
 
 <a id="introduction"></a>
 
@@ -1053,9 +1054,15 @@ Expand a category to browse its papers. Titles link directly to paper pages. Ent
 
 ## 📝 Citation & Contact
 
+If you find our [survey](Survey.pdf) useful, please cite:
+
 ```bibtex
 @misc{wang2026emerging,
-  % Full citation to be added upon release.
+  title = {The Emerging {AI} Paper-Review Arms Race: Adversarial Co-Evolution in Scholarly Publishing},
+  author = {Wang, Chenguang and Li, Ming and Braimah, Adebayo and Fan, Chenrui and Wang, Tuo and Guan, Weijie and Zhang, Ruiyi and Zhou, Tianyi and Zhou, Dawei},
+  year = {2026},
+  note = {Preprint},
+  url = {https://github.com/MingLiiii/Awesome_AI_Arm_Race/blob/main/Survey.pdf}
 }
 ```
 
@@ -1065,8 +1072,8 @@ Expand a category to browse its papers. Titles link directly to paper pages. Ent
 
 If you have relevant work to suggest, notice a missing reference, or would like to share corrections, please contact:
 
-- **Chenguang Wang** — [cswang@vt.edu](mailto:cswang@vt.edu)
-- **Ming Li** — [minglii@umd.edu](mailto:minglii@umd.edu)
+- **Chenguang Wang** — [Homepage](https://c-steve-wang.github.io/) · [cswang@vt.edu](mailto:cswang@vt.edu)
+- **Ming Li** — [Homepage](https://mingliiii.github.io/) · [minglii@umd.edu](mailto:minglii@umd.edu)
 
 <a id="contributing"></a>
 
