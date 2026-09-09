@@ -1,6 +1,6 @@
 # 📚 Awesome AI Paper–Review Arms Race
 
-[![arXiv: coming soon](https://img.shields.io/badge/arXiv-coming_soon-B31B1B?style=flat)](#citation-and-contact)
+[![arXiv](https://img.shields.io/badge/arXiv-coming_soon-B31B1B?style=flat)](https://arxiv.org/abs/2609.07713)
 [![Survey PDF](https://img.shields.io/badge/Survey-PDF-B31B1B?style=flat)](Survey.pdf)
 [![Maintained: yes](https://img.shields.io/badge/Maintained-yes-2E7D32?style=flat)](#news)
 [![Last update: September 2026](https://img.shields.io/badge/Last_update-2026.09-7952B3?style=flat)](#news)
